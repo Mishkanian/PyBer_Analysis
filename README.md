@@ -19,7 +19,7 @@ The majority of PyBer's customers and drivers are located in Urban cities. As il
 ![pie_chart_fares](https://github.com/Mishkanian/PyBer_Analysis/blob/main/analysis/Fig5.png)
 
 ### Suburban Cities
-When compared to the Urban and Rural markets, the performance of Suburban cities is balanced and sustainable. Interestingly, the average Suburban fare is only $6.44 higher than in Urban cities, but the average driver fare is $22.93 higher than in Urban cities. There is a healthy balance of 490 drivers and 625 rides, which maintains a high average fare per driver. . In all metrics analyzed, Suburban cities consistently are second place.
+When compared to the Urban and Rural markets, the performance of Suburban cities is balanced and sustainable. Interestingly, the average Suburban fare is only $6.44 higher than in Urban cities, but the average driver fare is $22.93 higher than in Urban cities. There is a healthy balance of 490 drivers and 625 rides, which maintains a high average fare per driver. In all metrics analyzed, Suburban cities consistently are second place.
 
 
 ### Rural Cities
@@ -33,11 +33,11 @@ The graph below illustrates the weekly fares of each city types from January 1, 
 
 ![total_weekly_fare_by_type](https://github.com/Mishkanian/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 ## Summary and Recommendations
-In this analysis, it is found that Rural cities have disproportionately higher fare prices and lower driver options than Urban and Suburban cities. These high Rural prices may be offputting to potential customers and deter new users from trying PyBer. To lower prices in Rural cities, **more drivers are needed to service these areas.** As seen in the plot below, Rural cities have a severe shortage of drivers when compared to Urban cities. Providing incentives for new drivers or creating job awareness campaigns in Rural cities may increase the number of drivers to solve this disparity. 
+In this analysis, it is found that Rural cities have disproportionately higher fare prices and lower driver options than Urban and Suburban cities. These high Rural prices may be offputting to potential customers and deter new users from trying PyBer. **More drivers are needed to service Rural cities** to lower fare prices in these areas. As seen in the plot below, Rural cities have a severe shortage of drivers when compared to Urban cities. Providing incentives for new drivers or creating job awareness campaigns in Rural cities may increase the number of drivers to solve this disparity. 
 
 ![drivers_box_plot](https://github.com/Mishkanian/PyBer_Analysis/blob/main/analysis/Fig4.png)
 
-However, **adding more drivers to PyBer must be a balancing act.** If there is an oversupply of drivers, such as the case in Urban cities, then the average driver fares will plummet. Low average fares may result in drivers leaving PyBer's platform or joining competitors. Closing the service gap in Rural areas would increase PyBer's total ride count and it is a vital strategy going forward. Furthermore, to address the low average fares per driver in Urban areas, it is recommended to **increase the total ride count with marketing solutions**, such as user discounts and targeted advertisements to increase demand and brand awareness. With these strategies in place, PyBer will be positioned to grow its current business and expand into new markets as well.
+However, **adding more drivers to PyBer must be a balancing act.** If there is an oversupply of drivers, such as the case in Urban cities, then the average driver fares will plummet. Low average fares may result in drivers leaving PyBer's platform or joining competitors. Closing the service gap in Rural areas would increase PyBer's total ride count and it is a vital strategy going forward. Furthermore, **it is critical to maintain high average driver fares,** which will motivate drivers to stay on PyBer. To address the low average fares per driver in Urban areas, it is recommended to increase the total ride count with marketing solutions, such as user discounts and targeted advertisements to increase demand and brand awareness. With these strategies in place, PyBer will be positioned to grow its current business and expand into new markets as well.
 
 **Author: Michael Mishkanian**  
 For all questions and inquiries, please contact me on [LinkedIn](https://www.linkedin.com/in/michaelmishkanian/).
