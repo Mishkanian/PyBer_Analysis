@@ -1,7 +1,7 @@
 # PyBer Analysis
 
 ## Project Overview  
-The purpose of this analysis is to create a visual summary of PyBer's ride-sharing data by city type (Urban, Suburban, Rural) and compare their performace. Business recommendations are also provided based on the analysis to address potential disparities among city types. To accomplish this task, Python modules, such as Matplotlib and NumPy, are used to plot DataFrames.
+The purpose of this analysis is to create a visual summary of PyBer's ride-sharing data by city type (Urban, Suburban, Rural) and to compare their performace. Business recommendations are also provided based on the analysis to address potential disparities among city types. To accomplish this task, Python modules, such as Matplotlib and NumPy, are used to plot DataFrames.
 
 ---
 ## Resources  
