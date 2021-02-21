@@ -14,17 +14,17 @@ The purpose of this analysis is to create a visual summary of PyBer's ride-shari
 ![basic_info](https://github.com/Mishkanian/PyBer_Analysis/blob/main/analysis/pyber_basic_info.png)
 
 ### Urban Cities
-The majority of PyBer's customers and drivers are located in Urban cities. As illustrated in the chart below, **these areas account for 62.7% of the total fares.** It is found that Urban cities have *thirty times* more drivers than Rural cities. However, due to the excess supply of drivers in Urban cities, the **average fare per driver is only $16.57**, which is the lowest of any market.
+The majority of PyBer's customers and drivers are located in Urban cities. As illustrated in the chart below, **these areas account for 62.7% of the total fares.** It is found that Urban cities have *thirty times* more drivers than Rural cities. However, due to the excess supply of drivers in Urban cities, the **average fare per driver is only $16.57**, which is the lowest of any market. This is the only city type where there are more total drivers than total rides.
 
 ![pie_chart_fares](https://github.com/Mishkanian/PyBer_Analysis/blob/main/analysis/Fig5.png)
 
 ### Suburban Cities
-When compared to the Urban and Rural markets, the performance of Suburban cities is balanced and sustainable. Interestingly, the average Suburban fare is only $6.44 higher than in Urban cities, but the average driver fare is $22.93 higher than in Urban cities. In all metrics analyzed in this project, Suburban cities 
+When compared to the Urban and Rural markets, the performance of Suburban cities is balanced and sustainable. Interestingly, the average Suburban fare is only $6.44 higher than in Urban cities, but the average driver fare is $22.93 higher than in Urban cities. There is a healthy balance of 490 drivers and 625 rides, which maintains a high average fare per driver. . In all metrics analyzed, Suburban cities consistently are second place.
 
 
 ### Rural Cities
 
-Rural cities on average have the fewest number of drivers and riders. Due to the low supply of drivers, the fare prices in these Rural cities are significantly higher than the other markets. **[Only 2.6% of PyBer's total drivers are located in Rural cities](https://github.com/Mishkanian/PyBer_Analysis/blob/main/analysis/Fig7.png)** even though these areas account for [5.3%](https://github.com/Mishkanian/PyBer_Analysis/blob/main/analysis/Fig6.png) of Pyber's total rides.  Demand in Rural markets is outpacing the supply of driver by a ratio of 2:1. The disparity in fare prices is illustrated in the plot below.
+Rural cities on average have the fewest number of drivers and rides. Due to the low supply of drivers, **average fare prices in Rural areas are the highest of any city type** at $34.62 per ride. **[Only 2.6% of PyBer's total drivers are located in Rural cities](https://github.com/Mishkanian/PyBer_Analysis/blob/main/analysis/Fig7.png)** even though these areas account for [5.3%](https://github.com/Mishkanian/PyBer_Analysis/blob/main/analysis/Fig6.png) of Pyber's total rides. The low supply of Rural drivers has also increased the average fare per driver to be 40% higher than Suburban drivers and 235% higher than Urban drivers. Demand in Rural markets is outpacing the supply of driver by a ratio of 2:1. The disparity in fare prices is illustrated in the plot below.
 
 ![fig3](https://github.com/Mishkanian/PyBer_Analysis/blob/main/analysis/Fig3.png)
 
