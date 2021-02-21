@@ -19,7 +19,7 @@ The majority of PyBer's customers and drivers are located in Urban cities. As il
 ![pie_chart_fares](https://github.com/Mishkanian/PyBer_Analysis/blob/main/analysis/Fig5.png)
 
 ### Suburban Cities
-When compared to the Urban and Rural markets, the performance of Suburban cities is balanced and sustainable. Interestingly, the average Suburban fare is only $6.44 higher than in Urban cities, but the average driver fare is $22.93 higher than in Urban cities. There is a healthy balance of 490 drivers and 625 rides, which maintains a high average fare per driver. In all metrics analyzed, Suburban cities consistently are second place.
+When compared to the Urban and Rural markets, the performance of Suburban cities is balanced and sustainable. Interestingly, the average Suburban fare is only $6.44 higher than in Urban cities, but the average driver fare is $22.93 higher than in Urban cities. There is a healthy balance of 490 drivers and 625 rides, which maintains a high average fare per driver. In all metrics analyzed, Suburban cities are consistently ranked second place.
 
 
 ### Rural Cities
