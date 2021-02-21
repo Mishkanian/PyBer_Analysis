@@ -9,20 +9,21 @@ The purpose of this analysis is to create a visual summary of PyBer's ride-shari
 **Software:** Python 3.7, Anaconda, Jupyter Notebook
 
 ## Results  
-The DataFrame below provides a basic overview of the findings:
-![basic_info]()
+*Please refer to the DataFrame below for a basic overview of the findings:*
+![basic_info](https://github.com/Mishkanian/PyBer_Analysis/blob/main/analysis/pyber_basic_info.png)
 
 ### Urban Cities
+The majority of PyBer's customers and drivers are located in Urban cities. As illustrated in the pie chart below, **these areas account for 62.7% of the total fares.** It is found that Urban cities have *thirty times* more drivers than Rural cities. However, due to the excess supply of drivers in Urban cities, the **average fare per driver is only $16.57**, which is the lowest of any market.
 
-
+![pie_chart_fares](https://github.com/Mishkanian/PyBer_Analysis/blob/main/analysis/Fig5.png)
 
 ### Suburban Cities
-
+When compared to Urban and Rural, Suburban cities
 
 
 ### Rural Cities
 
-Rural cities on average have the fewest number of drivers and riders. Due to the low supply of drivers, the fare prices in these Rural cities are significantly higher than the other markets. **Only 2.6% of PyBer's total drivers are located in Rural cities** eventhough these areas account for 5.3% of Pyber's total rides. Demand in Rural markets is outpacing the supply of driver by a ratio of 2:1.
+Rural cities on average have the fewest number of drivers and riders. Due to the low supply of drivers, the fare prices in these Rural cities are significantly higher than the other markets. **Only 2.6% of PyBer's total drivers are located in Rural cities** even though these areas account for 5.3% of Pyber's total rides.  Demand in Rural markets is outpacing the supply of driver by a ratio of 2:1. The disparity in fare prices is illustrated in the Box-and-Whisker plot below.
 ![fig3](https://github.com/Mishkanian/PyBer_Analysis/blob/main/analysis/Fig3.png)
 
 ### Total Weekly Fares by City Type
