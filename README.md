@@ -14,7 +14,7 @@ The purpose of this analysis is to create a visual summary of PyBer's ride-shari
 ![basic_info](https://github.com/Mishkanian/PyBer_Analysis/blob/main/analysis/pyber_basic_info.png)
 
 ### Urban Cities
-The majority of PyBer's customers and drivers are located in Urban cities. As illustrated in the pie chart below, **these areas account for 62.7% of the total fares.** It is found that Urban cities have *thirty times* more drivers than Rural cities. However, due to the excess supply of drivers in Urban cities, the **average fare per driver is only $16.57**, which is the lowest of any market.
+The majority of PyBer's customers and drivers are located in Urban cities. As illustrated in the chart below, **these areas account for 62.7% of the total fares.** It is found that Urban cities have *thirty times* more drivers than Rural cities. However, due to the excess supply of drivers in Urban cities, the **average fare per driver is only $16.57**, which is the lowest of any market.
 
 ![pie_chart_fares](https://github.com/Mishkanian/PyBer_Analysis/blob/main/analysis/Fig5.png)
 
@@ -24,7 +24,7 @@ When compared to the Urban and Rural markets, the performance of Suburban cities
 
 ### Rural Cities
 
-Rural cities on average have the fewest number of drivers and riders. Due to the low supply of drivers, the fare prices in these Rural cities are significantly higher than the other markets. **[Only 2.6% of PyBer's total drivers are located in Rural cities](https://github.com/Mishkanian/PyBer_Analysis/blob/main/analysis/Fig7.png)** even though these areas account for [5.3%](https://github.com/Mishkanian/PyBer_Analysis/blob/main/analysis/Fig6.png) of Pyber's total rides.  Demand in Rural markets is outpacing the supply of driver by a ratio of 2:1. The disparity in fare prices is illustrated in the Box-and-Whisker plot below.
+Rural cities on average have the fewest number of drivers and riders. Due to the low supply of drivers, the fare prices in these Rural cities are significantly higher than the other markets. **[Only 2.6% of PyBer's total drivers are located in Rural cities](https://github.com/Mishkanian/PyBer_Analysis/blob/main/analysis/Fig7.png)** even though these areas account for [5.3%](https://github.com/Mishkanian/PyBer_Analysis/blob/main/analysis/Fig6.png) of Pyber's total rides.  Demand in Rural markets is outpacing the supply of driver by a ratio of 2:1. The disparity in fare prices is illustrated in the plot below.
 ![fig3](https://github.com/Mishkanian/PyBer_Analysis/blob/main/analysis/Fig3.png)
 
 ### Total Weekly Fares by City Type
@@ -32,7 +32,7 @@ The graph below illustrates the weekly fares of each city types from January 1, 
 
 ![total_weekly_fare_by_type](https://github.com/Mishkanian/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 ## Summary
-During this analysis, it is found that Rural cities have disproportionately higher fare prices and lower driver options than Urban and Suburban cities. These high Rural prices may be offputting to potential customers and deter new users from trying PyBer. To lower prices in Rural cities, **more drivers are needed to service these Rural areas.** As seen in the Box-and-Whisker plot below, Rural cities have a severe shortage of drivers when compared to Urban cities. Providing incentives for new drivers or creating job awareness campaigns in Rural cities may increase the number of drivers to solve this disparity. 
+During this analysis, it is found that Rural cities have disproportionately higher fare prices and lower driver options than Urban and Suburban cities. These high Rural prices may be offputting to potential customers and deter new users from trying PyBer. To lower prices in Rural cities, **more drivers are needed to service these Rural areas.** As seen in the plot below, Rural cities have a severe shortage of drivers when compared to Urban cities. Providing incentives for new drivers or creating job awareness campaigns in Rural cities may increase the number of drivers to solve this disparity. 
 
 ![drivers_box_plot](https://github.com/Mishkanian/PyBer_Analysis/blob/main/analysis/Fig4.png)
 
