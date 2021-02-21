@@ -24,12 +24,12 @@ When compared to the Urban and Rural markets, the performance of Suburban cities
 
 ### Rural Cities
 
-Rural cities on average have the fewest number of drivers and rides. Due to the low supply of drivers, **average fare prices in Rural areas are the highest of any city type** at $34.62 per ride. **[Only 2.6% of PyBer's total drivers are located in Rural cities](https://github.com/Mishkanian/PyBer_Analysis/blob/main/analysis/Fig7.png)** even though these areas account for [5.3%](https://github.com/Mishkanian/PyBer_Analysis/blob/main/analysis/Fig6.png) of Pyber's total rides. The low supply of Rural drivers has also increased the average fare per driver to be 40% higher than Suburban drivers and 235% higher than Urban drivers. Demand in Rural markets is outpacing the supply of driver by a ratio of 2:1. The disparity in fare prices is illustrated in the plot below.
+Rural cities on average have the fewest number of drivers and rides. Due to the low supply of drivers, **average fare prices in Rural areas are the highest of any city type** at $34.62 per ride. **[Only 2.6% of PyBer's total drivers are located in Rural cities](https://github.com/Mishkanian/PyBer_Analysis/blob/main/analysis/Fig7.png)** even though these areas account for [5.3%](https://github.com/Mishkanian/PyBer_Analysis/blob/main/analysis/Fig6.png) of Pyber's total rides. The low supply of Rural drivers has also increased the average fare per driver to be 40% higher than Suburban drivers and 235% higher than Urban drivers. Demand in Rural markets is outpacing the supply of drivers by a ratio of 2:1. The disparity in fare prices is illustrated in the plot below.
 
 ![fig3](https://github.com/Mishkanian/PyBer_Analysis/blob/main/analysis/Fig3.png)
 
 ### Total Weekly Fares by City Type
-The graph below illustrates the weekly fares of each city types from January 1, 2019 through April 4, 2019. Revenue in Q1 2019 has been static regardless of the city type. Fares in Urban cities hovered between $1,500 - $2,500, with resistance at $2,500. Suburban city fares were between  $500 - $1,500. Lastly, Rural city fares remained between $0 - $500.
+The graph below illustrates the weekly fares of each city types from January 1, 2019 through April 29, 2019. Revenue in Q1 2019 has been static regardless of the city type. Fares in Urban cities hovered between $1,500 - $2,500, with resistance at $2,500. Suburban city fares were between  $500 - $1,500. Lastly, Rural city fares remained between $0 - $500.
 
 ![total_weekly_fare_by_type](https://github.com/Mishkanian/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 ## Summary and Recommendations
